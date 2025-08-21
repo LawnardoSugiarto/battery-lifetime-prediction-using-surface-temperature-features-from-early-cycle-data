@@ -1,4 +1,4 @@
-Battery Lifetime Prediction Using Surface Temperature Features From Early Cycle Data
+Battery Lifetime Prediction Using Surface Temperature Features From Early Cycle Data  
 This repository contains code and workflows for early-cycle  battery lifetime prediction published at https://pubs.rsc.org/en/content/articlehtml/2025/ee/d4ee05179c. The project leverages multiple publicly available datasets and supports modular training and evaluation across different battery chemistries and cycling conditions.
 
 Dataset Overview
