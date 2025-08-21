@@ -1,0 +1,8 @@
+Library requirements and versions used in our work
+
+h5py==2.8.0
+matplotlib==3.5.1
+numpy==1.22.4
+pandas==1.2.4
+scipy==1.6.2
+sklearn==1.3.2
